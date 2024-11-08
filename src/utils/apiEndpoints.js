@@ -1,0 +1,1 @@
+export const GET_REPOS_URL = 'https://api.github.com/users/<USERNAME>/repos'
